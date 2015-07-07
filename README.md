@@ -26,4 +26,4 @@ jQuery.color方法设置或返回被选元素color属性。 用于替代.css('co
 
 1. 在引入 jQuery 后，引入 jquery.color.js。 
 2. 然后在 `$(function(){})` 里使用 `$(selector).color()` 即可。
-3. 如需设置指定的 color 属性，请使用如下语法：color("value");
+3. 如需设置指定的 color 属性，请使用如下语法：color("value").
